@@ -1,0 +1,61 @@
+.bg1
+{
+  background-color: #55efc4;
+  color: #ffffff;
+
+}
+
+.bg2
+{
+  background-color: #2d3436;
+    color: #ffffff;
+}
+
+.bg3
+{
+  background-color:#dfe6e9;
+    color: #ffffff;
+}
+
+.bgf
+{
+  background-color: #636e72;
+}
+.container-fluid
+{
+  font-size: 16px;
+  letter-spacing: 1px;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+.social-links a
+{
+display: inline-block;
+height:40px;
+width: 40px;
+background: black;
+margin: 0 10px 10px 0;
+text-align: center;
+line-height: 40px;
+border-radius: 50%;
+color: #ffffff;
+}
+
+.social-links a:hover
+{
+  color: #f1c40f;
+  background-color:#55efc4 ;
+  transition: 0.5s;
+}
+
+#l1 a
+{
+  color: black;
+}
+
+
+#l1 a:hover
+{
+padding-left: 5px;
+
+}
